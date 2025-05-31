@@ -9,6 +9,15 @@ Whether you're a curious programmer exploring esoteric languages or someone buil
 ![GitHub](https://img.shields.io/github/license/BaseMax/brain-fuck-runner)
 ![Go Version](https://img.shields.io/badge/Go-1.22.4+-brightgreen)
 
+## Example Brainfuck
+
+```
+C:\Users\MAX\brain-fuck-runner>brain-fuck-runner.exe
+Brainfuck REPL (type `exit` or Ctrl+C to quit)
+>> ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
+Output: Hello World!
+```
+
 ## Features
 
 - Fully functional Brainfuck interpreter
