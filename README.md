@@ -6,8 +6,8 @@
 
 Whether you're a curious programmer exploring esoteric languages or someone building tooling for programming language education, this project offers a clean and well-structured Brainfuck interpreter that’s easy to extend, understand, and test.
 
-![GitHub](https://img.shields.io/github/license/BaseMax/brain-fuck-runner)
 ![Go Version](https://img.shields.io/badge/Go-1.22.4+-brightgreen)
+![GitHub License](https://img.shields.io/github/license/BaseMax/brain-fuck-runner)
 
 ## Example Brainfuck
 
