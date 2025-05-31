@@ -2,7 +2,7 @@
 
 > A simple, clean Brainfuck interpreter written in Go with REPL support.
 
-**Brainfuck Runner** is a minimalist yet powerful interpreter for the [Brainfuck programming language](https://en.wikipedia.org/wiki/Brainfuck), implemented in Go. This tool is designed for both educational and practical use—allowing you to experiment with Brainfuck interactively via a REPL (Read-Eval-Print Loop), or execute static Brainfuck programs.
+**Brainfuck Runner** is a minimalist yet powerful interpreter for the [Brainfuck programming language](https://en.wikipedia.org/wiki/Brainfuck), implemented in Go. This tool is designed for both educational and practical use-allowing you to experiment with Brainfuck interactively via a REPL (Read-Eval-Print Loop), or execute static Brainfuck programs.
 
 Whether you're a curious programmer exploring esoteric languages or someone building tooling for programming language education, this project offers a clean and well-structured Brainfuck interpreter that’s easy to extend, understand, and test.
 
